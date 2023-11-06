@@ -5,7 +5,7 @@
 	<title>Modelo-vista-controlador</title>
 </head>
 <body>
-	<h1>Platillos disponibles</h1>
+	<h1>Juegos disponibles</h1>
 	<table border="1">
 		<tr>
 			<td><strong>ID</strong></td>
